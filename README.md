@@ -4,7 +4,7 @@
 ### preliminary requirements (to run from Windows-10/11):
 * install `python3.10` from Microsoft-store
 
-step1: fork this repository on your account
+step1: fork this repository on your account abc
 
 step2: clone/download the forked repository on your PC
 
